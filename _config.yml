@@ -125,3 +125,5 @@ compress_html:
 #     category: '/category/:name/'
 
 
+
+theme: jekyll-theme-cayman
